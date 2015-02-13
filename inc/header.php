@@ -30,11 +30,11 @@
 	</figure>
 	<nav class="navegacion">
 		<ul class="menu">
-			<li class="menu__home"><a href="home.php">Home</a></li>
-			<li class="menu__porfolio"><a href="porfolio.php">Porfolio</a></li>
-			<li class="menu__estudio"><a href="estudios.php">Estudios</a></li>
-			<li class="menu__d-personales"><a href="datos.php">Datos</a></li>
-			<li class="menu__contactar"><a href="contactar.php">Contactar</a></li>
+			<li class="menu__home"><a href="#">Home</a></li>
+			<li class="menu__porfolio"><a href="#">Porfolio</a></li>
+			<li class="menu__estudio"><a href="#">Estudios</a></li>
+			<li class="menu__d-personales"><a href="#">Datos</a></li>
+			<li class="menu__contactar"><a href="#">Contactar</a></li>
 		</ul>
 	</nav>
 </div>
